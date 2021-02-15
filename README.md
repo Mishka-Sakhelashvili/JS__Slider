@@ -1,4 +1,4 @@
-[![Header](https://mishka-sakhelashvili.github.io/JS__Slider)](https://mishka-sakhelashvili.github.io/JS__Slider/)
+[![Header](https://github.com/Mishka-Sakhelashvili/JS__Slider/blob/master/img/1.jpg)](https://mishka-sakhelashvili.github.io/JS__Slider/)
 
 #HTML #CSS #JS #Slider
 
