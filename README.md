@@ -1,4 +1,4 @@
-[![Header](https://mishka-sakhelashvili.github.io/JS__Slider)](https://www.adamalston.com/)
+[![Header](https://mishka-sakhelashvili.github.io/JS__Slider)](https://mishka-sakhelashvili.github.io/JS__Slider/)
 
 #HTML #CSS #JS #Slider
 
