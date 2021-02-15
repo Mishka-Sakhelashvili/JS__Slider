@@ -1,18 +1,6 @@
 #HTML #CSS #JS #Slider
 
 view demo: https://mishka-sakhelashvili.github.io/JS__Slider/
+HTML5 CSS JavaScript
 
-
-Hi, 🐔
-Full-Stack | Software engineer 🤖. (In progress)
-
-Holberton School Student. 👨‍💻
-
-About me
-❤️ Drawing | 🖤 Hip-Hop | 💙 Programming
-
-🌎 I'm from Medellin - Colombia
-🎮 I like to play video games
-💎 I love to customize everything lol
-Social media 📭
-Twitter URL Twitter URL Twitter URL Twitter URL
+  <img src="https://raw.githubusercontent.com/jeferson0993/jeferson0993/master/header.svg" width="800" height="400">
