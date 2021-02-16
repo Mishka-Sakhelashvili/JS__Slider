@@ -2,7 +2,7 @@
 
 <hr />
 
-<img width="400px" src="https://github.com/Mishka-Sakhelashvili/JS_test/blob/master/test.gif"/>
+<img width="400px" src="https://github.com/Mishka-Sakhelashvili/JS__Slider/blob/master/gif.gif"/>
 
 <hr />
 <h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS__Slider/">  View Demo  </a></h1>
